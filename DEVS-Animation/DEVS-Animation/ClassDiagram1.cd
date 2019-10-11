@@ -1,0 +1,131 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CPaint.CloneObject" Collapsed="true">
+    <Position X="11" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>CloneObject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPaint.CurveFigure" Collapsed="true">
+    <Position X="20.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>CurveFigure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPaint.Document" Collapsed="true">
+    <Position X="22" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>FAAAAAEEIQBSAxAQAABEACAAkAAAAIYAAHAAAgAABAQ=</HashCode>
+      <FileName>Document.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPaint.Figure">
+    <Position X="11" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgABAAQIAAAAgCQgRAgAAAAgAhAAAoAAAAAAgACQBA=</HashCode>
+      <FileName>Figure.cs</FileName>
+    </TypeIdentifier>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="CPaint.FreeLineFigure" Collapsed="true">
+    <Position X="13.25" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAACAAAAAAAAAAAAAAAIAAAAAAAAAQAA=</HashCode>
+      <FileName>FreeLineFigure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPaint.LineFigure" Collapsed="true">
+    <Position X="6.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAACAAAAAAAAAAAAAAAIAAAAAAAAAQAA=</HashCode>
+      <FileName>LineFigure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPaint.MyArrayList" Collapsed="true">
+    <Position X="20.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAAAABA=</HashCode>
+      <FileName>MyArrayList.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPaint.MyGraphics" Collapsed="true">
+    <Position X="22" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>MyGraphics.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPaint.MyMath" Collapsed="true">
+    <Position X="23.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAA=</HashCode>
+      <FileName>MyMath.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPaint.MyPoint" Collapsed="true">
+    <Position X="4.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAAABgAAAAABA=</HashCode>
+      <FileName>MyPoint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPaint.OvalFigure" Collapsed="true">
+    <Position X="8.75" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAACAAAAAAAAAAAAAAAIAAAAAAAAAQAA=</HashCode>
+      <FileName>OvalFigure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPaint.PolyLineFigure" Collapsed="true">
+    <Position X="11" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAACAAAAAAAAAAAAAAAIAAAAAAAAAQAA=</HashCode>
+      <FileName>PolyLineFigure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPaint.Rect" Collapsed="true">
+    <Position X="17.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAAAAAAqIAIAhEEgBAAAIkADMAoQAAAAKAAIAAAgBA=</HashCode>
+      <FileName>Rect.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPaint.RectFigure" Collapsed="true">
+    <Position X="15.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAACAAAAAAAAAAAAAAAIAAAAAAAAAQAA=</HashCode>
+      <FileName>RectFigure.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPaint.View" Collapsed="true">
+    <Position X="22" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAACAAAAAAAACoAAACACAGAAAAAAgIACBgACA=</HashCode>
+      <FileName>View.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="paint.Form1" Collapsed="true">
+    <Position X="23.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAAAAAAACAAAACAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Form1.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="paint.Program" Collapsed="true">
+    <Position X="20.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="CPaint.IDrawable" Collapsed="true">
+    <Position X="20.25" Y="4.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>IDrawable.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Font Name="맑은 고딕" Size="9" />
+</ClassDiagram>
